@@ -1,0 +1,5 @@
+c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Entities\bin\Debug\Entities.dll
+c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Entities\bin\Debug\Entities.pdb
+c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Entities\obj\Debug\Entities.dll
+c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Entities\obj\Debug\Entities.pdb

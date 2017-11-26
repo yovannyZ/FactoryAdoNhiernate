@@ -1,0 +1,14 @@
+c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\Data.dll
+c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\Data.pdb
+c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\obj\Debug\Data.dll
+c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\obj\Debug\Data.pdb
+C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\Entities.dll
+C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\FluentNHibernate.dll
+C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\NHibernate.dll
+C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\Entities.pdb
+C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\FluentNHibernate.pdb
+C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\FluentNHibernate.xml
+C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\Iesi.Collections.xml
+C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\NHibernate.xml
