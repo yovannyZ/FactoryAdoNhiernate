@@ -29,7 +29,7 @@ namespace Data
                     //if (bdElem != null)
                     //    BaseDatos = bdElem.Value.ValueXml.InnerText;
 
-                    _sql = string.Format("Data Source={0};Initial Catalog=BD_PLA{1};User=miguel;password=main", "DESKTOP-ADMKICT", "01");
+                    _sql = string.Format("Data Source={0};Initial Catalog=BD_PLA{1};User=miguel;password=main", "MG-ASUS", "01");
                 }
                 return _sql;
             }

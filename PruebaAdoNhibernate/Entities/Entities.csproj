@@ -41,7 +41,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Base.cs" />
-    <Compile Include="Entidad.cs" />
     <Compile Include="EnumClass.cs" />
     <Compile Include="Region.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

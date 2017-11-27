@@ -1,6 +1,6 @@
 ﻿namespace Entities
 {
-    public class Region : Entidad
+    public class Region 
     {//IdRegion, CoRegion, NoRegion, TxDescCorta, FlActivo
         public virtual int Id { get; set; }
         public virtual string Codigo { get; set; }

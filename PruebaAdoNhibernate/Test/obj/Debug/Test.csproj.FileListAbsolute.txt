@@ -16,3 +16,21 @@ C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Test\
 C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Test\obj\Debug\Test.dll
 C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Test\obj\Debug\Test.pdb
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\Test.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\Test.pdb
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\Data.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\Entities.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\NHibernate.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\FluentNHibernate.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\Iesi.Collections.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\Data.pdb
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\Entities.pdb
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\NHibernate.xml
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\FluentNHibernate.pdb
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\FluentNHibernate.xml
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\Iesi.Collections.xml
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\obj\Debug\Test.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Test\obj\Debug\Test.pdb

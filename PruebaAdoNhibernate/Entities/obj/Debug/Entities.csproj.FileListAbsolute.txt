@@ -3,3 +3,8 @@ c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Entit
 c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
 c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Entities\obj\Debug\Entities.dll
 c:\users\yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Entities\obj\Debug\Entities.pdb
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Entities\bin\Debug\Entities.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Entities\bin\Debug\Entities.pdb
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Entities\obj\Debug\Entities.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Entities\obj\Debug\Entities.pdb

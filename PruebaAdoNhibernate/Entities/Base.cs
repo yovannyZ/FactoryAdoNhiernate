@@ -1,6 +1,6 @@
 ﻿namespace Entities
 {
-    public class Base : Entidad
+    public class Base 
     {//IdZona, CoZona, NoZona, TxDescCorta, FlActivo, IdRegion
         public virtual int Id { get; set; }
         public virtual string Codigo { get; set; }

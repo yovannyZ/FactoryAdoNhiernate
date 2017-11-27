@@ -12,3 +12,17 @@ C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\
 C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\FluentNHibernate.xml
 C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\Iesi.Collections.xml
 C:\Users\Yovanny\documents\visual studio 2015\Projects\PruebaAdoNhibernate\Data\bin\Debug\NHibernate.xml
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\bin\Debug\Data.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\bin\Debug\Data.pdb
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\bin\Debug\Entities.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\bin\Debug\FluentNHibernate.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\bin\Debug\Iesi.Collections.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\bin\Debug\NHibernate.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\bin\Debug\Entities.pdb
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\bin\Debug\FluentNHibernate.pdb
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\bin\Debug\FluentNHibernate.xml
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\bin\Debug\Iesi.Collections.xml
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\bin\Debug\NHibernate.xml
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\obj\Debug\Data.dll
+D:\Proyectos\FactoryAdoNhiernate\PruebaAdoNhibernate\Data\obj\Debug\Data.pdb

@@ -28,9 +28,6 @@ namespace Test
             //LISTAMOS PUESTOS CON NHIBERNATE
             BaseRepository = FactoryRepository.GetInstanceBase(Provider.NHIBERNATE);
             var Bases = BaseRepository.ListarTodos();
-
-
-
         }
     }
 }
